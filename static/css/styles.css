@@ -1,0 +1,21 @@
+.imgFondo {
+  width: 100%;
+
+}
+main{
+  display: flex;
+}
+section{
+  padding: 1em;
+}
+
+.deleteButtonImg {
+  width: 1.5em;
+  height: 1.5em;
+  padding: 0px;
+}
+
+.players li {
+  display: flex;
+}
+
